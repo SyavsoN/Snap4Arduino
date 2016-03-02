@@ -86,7 +86,7 @@ s4aTempDict = {
         'змінити статус цифрового роз\u2019єму %digitalPin на %b',
 
     'set servo %servoPin to %servoValue':
-        'змінити статус роз\u2019єму серво нa %servoValue',
+        'змінити статус роз\u2019єму серво %servoPin нa %servoValue',
 
     'set PWM pin %pwmPin to %n':
         'змінити статус роз\u2019єму PWM %pwmPin на %n',
@@ -104,7 +104,7 @@ s4aTempDict = {
         'Можливо, USB кабель було від\u2019єднано!',
 
     'Error connecting the board.':
-        'Неможило з\u2019єднатися з платою',
+        'Неможило з\u2019єднатися з платою.',
 
     'There is already a board connected to this sprite':
         'З цим спрайтом вже існує з\u2019єднання',
