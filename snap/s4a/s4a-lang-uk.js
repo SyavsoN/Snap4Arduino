@@ -59,10 +59,10 @@ s4aTempDict = {
 		'під кутом (0-180)',
 
     'connect to Arduino':
-        'підключитися до Arduino',
+        'з\u2019єднатися з Arduino',
 
     'disconnect Arduino':
-        'відключитися від Arduino',
+        'від\u2019єднатися від Arduino',
 
     'Connect Arduino':
         'З\u2019єднатися з Arduino',
@@ -98,31 +98,31 @@ s4aTempDict = {
         'Вдале з\u2019єднання з платою Arduino.\nЦікавих експериментів!',
 
     'Board was disconnected from port\n':
-        'Плату було відєднано від порту\n',
+        'Плату було від\u2019єднано від порту\n',
 
     'It seems that someone pulled the cable!':
-        'Sembra che qualcuno ha staccato il cavo!',
+        'Можливо, USB кабель було від\u2019єднано!',
 
     'Error connecting the board.':
-        'Errore di connessione alla scheda',
+        'Неможило з\u2019єднатися з платою',
 
     'There is already a board connected to this sprite':
-        'C\'\u00E8 gi\u00E0 una scheda collegata a questo oggetto',
+        'З цим спрайтом вже існує з\u2019єднання',
 
     'Could not connect an Arduino\nNo boards found':
-        'Impossibile collegarsi ad Arduino\nNessuna scheda trovata',
+        'Неможлио з\u2019єднатися з Arduino\nНе знайдено жодної плати',
 
     'Could not talk to Arduino in port\n':
-        'Impossibile comunicare con Arduino alla porta\n',
+        'Помилка обміну даними з Arduino через порт\n',
 
     'Check if firmata is loaded.':
-        'Verifica che Firmata sia caricato sulla scheda.',
+        'Перевірити, чи завантажено скетч Firmata.',
 
     'An error was detected on the board\n\n':
-        'Un errore \u00E8 stato riscontrato sulla scheda\n\n',
+        'З цією платою виникли проблеми\n\n',
 
     'Board is not connected':
-        'La scheda non \u00E8 collegata'
+        'Плату від\u2019єднано'
 
 };
 
