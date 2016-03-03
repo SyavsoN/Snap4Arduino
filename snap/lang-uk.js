@@ -233,21 +233,21 @@ SnapTranslator.dict.uk = {
 
     // rotation styles:
     'don\'t rotate':
-        'не вращаемый',
+        'не обертати',
     'can rotate':
-        'вращаемый',
+        'обертати',
     'only face left/right':
-        'вращаемый только на лево и направо',
+        'пересувати тільки ліворуч/праворуч',
 
     // new sprite button:
     'add a new sprite':
-        'Добавить новый спрайт',
+        'Додати новий спрайт',
 
     // tab help
     'costumes tab help':
-        'импортируйте изображение с другого веб-сайта\nили со своего компьютера скопировав его сюда',
+        'імпортувати зображення з іншого веб-сайту або\nз вашого компьютера, перетягнувши файл сюди',
     'import a sound from your computer\nby dragging it into here':
-        'импортируйте звук со своего компьютера\nскопировав его сюда',
+        'імпортувати звук з вашого компьютера\nперетягнувши файл сюди',
 
     // primitive blocks:
 
@@ -283,40 +283,40 @@ SnapTranslator.dict.uk = {
 
     // motion:
     'Stage selected:\nno motion primitives':
-        'Выбрана сцена:\nнет блоков движения',
+        'Сцену обрано:\nблоки руху відсутні',
 
     'move %n steps':
-        'передвинуть на %n шагов',
+        'рухатися %n кроків',
     'turn %clockwise %n degrees':
-        'повернуть %clockwise на %n градусов',
+        'обертати %clockwise на %n градусів',
     'turn %counterclockwise %n degrees':
-        'повернуть %counterclockwise на %n градусов',
+        'обертати %counterclockwise на %n градусів',
     'point in direction %dir':
-        'указывать в направлении %dir',
+        'вказувати у напрямку %dir',
     'point towards %dst':
-        'указывать на %dst',
+        'слідувати за %dst',
     'go to x: %n y: %n':
-        'перейти в точку x %n y %n',
+        'переміститись в x: %n y: %n',
     'go to %dst':
-        'перейти в точку %dst',
+        'переміститись в %dst',
     'glide %n secs to x: %n y: %n':
-        'скользить %n сек к x %n y %n',
+        'ковзати %n сек до x: %n y: %n',
     'change x by %n':
-        'изменить х на %n',
+        'змінити х на %n',
     'set x to %n':
-        'установить х %n',
+        'задати значення х %n',
     'change y by %n':
-        'изменить y на %n',
+        'змінити y на %n',
     'set y to %n':
-        'установить y %n',
+        'задати значення y %n',
     'if on edge, bounce':
-        'на грани развернуться',
+        'на границі відбитися',
     'x position':
-        'x позиция',
+        'значення x',
     'y position':
-        'y позиция',
+        'значення y',
     'direction':
-        'направление',
+        'напрямок',
 
     // looks:
     'switch to costume %cst':
